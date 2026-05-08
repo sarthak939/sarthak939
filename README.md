@@ -1,5 +1,12 @@
 # 💫 About Me:
-👯 Looking to collaborate on Data Engineering, SQL optimization & Power BI projects<br><br>🌱 Currently learning  Advanced Data Engineering, Cloud Data Warehousing & Pipeline orchestration<br><br>🤝 Worked with DBT, BigQuery, workflow automation & Python<br><br>💬 Ask me about SQL, Python, Power BI, ETL development & data analytics<br><br>⚡ Fun fact: I love turning messy data into meaningful business insights 📊
+Data Analyst & Engineer with 1.4+ years of experience building scalable pipelines
+and analytics systems that drive real business decisions.
+
+- 🔭 Currently working on  Advanced Data Engineering, Cloud Data Warehousing & Pipeline Orchestration
+- 🤝 Open to collaborate on  Data Engineering, SQL Optimization & Power BI projects
+- 🛠 Working with  Python, SQL, dbt Core, BigQuery, Snowflake, Airflow & Power BI
+- 💬 Ask me about  ETL/ELT development, data modeling, dashboard design & forecasting
+- ⚡ Fun fact  I find more satisfaction in a well-optimized query than in most things in life
 
 
 ## 🌐 Socials:
